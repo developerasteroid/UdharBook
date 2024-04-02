@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Udhar Book</string>
+    <string name="action_bar_name">Udhar Book</string>
+    <string name="search_hint">Name or Mobile Number</string>
+    <string name="add_new_content_description">Add</string>
+    <string name="transaction_details_button">Transaction details</string>
+    <string name="received_btn_user_info">Received</string>
+    <string name="add_btn_user_info">Add</string>
+    <string name="edit_user_infio_nav">Edit</string>
+    <string name="delete_user_info_nav">Delete</string>
+    <string name="add_new_mobile_number">Mobile Number (optional)</string>
+    <string name="add_new_name">Name</string>
+    <string name="add_new_create_btn">Create</string>
+    <string name="no_result_found">No Result found</string>
+</resources>

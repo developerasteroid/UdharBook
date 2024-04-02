@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Chirag" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/ui_top_primary_color</item>
+    </style>
+    <style name="input_style">
+        <item name="android:textSize">18sp</item>
+        <item name="android:layout_marginTop">20dp</item>
+        <item name="android:background">@drawable/input_bg</item>
+    </style>
+    <style name="submit_button">
+        <item name="android:backgroundTint">@color/submit_btn</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="details_style">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/primary_text</item>
+    </style>
+    <style name="error_message">
+        <item name="android:textSize">16sp</item>
+        <item name="android:layout_marginHorizontal">10dp</item>
+        <item name="android:textColor">@color/error_message</item>
+    </style>
+    <style name="Theme.Chirag" parent="Base.Theme.Chirag" />
+</resources>

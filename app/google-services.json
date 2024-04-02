@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "770087950124",
+    "project_id": "udharbook-64659",
+    "storage_bucket": "udharbook-64659.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770087950124:android:bc29285d85102642abfe89",
+        "android_client_info": {
+          "package_name": "com.example.udharbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770087950124-ieorm26l9vcgt6fl92blgijreh04aj1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoIz4VfH2QA-nztV9RNJtqiEcoF4EKN_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770087950124-ieorm26l9vcgt6fl92blgijreh04aj1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

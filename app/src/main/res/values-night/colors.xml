@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="action_bar">#000000</color>
+    <color name="add_button">#fff</color>
+    <color name="backup_button">#fff</color>
+    <color name="user_nav_menu_options">#fff</color>
+    <color name="primary_text">#fff</color>
+    <color name="search_bg">#7E7E7E</color>
+    <color name="input_border">#64FFDA</color>
+    <color name="submit_btn">#FF4081</color>
+    <color name="receive_btn">#00DD00</color>
+    <color name="transaction_btn">#FFFFFF</color>
+    <color name="add_money_btn">#FF5252</color>
+    <color name="ui_top_primary_color">#000000</color>
+    <color name="error_message">#FF0000</color>
+    <color name="transaction_card_text_color">#FFF</color>
+</resources>
